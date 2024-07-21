@@ -14,7 +14,7 @@ I am thrilled to share my offer letter from CodSoft! Here's a glimpse of the for
 
 Check out this brief video summarizing my internship experience:
 
-[![Overview Video]](overview.mp4)
+[![Overview Video]](OverView.mp4)
 
 ## Tasks Performed
 
