@@ -8,7 +8,7 @@ Welcome to my internship journey at CodSoft! Over the course of one week, I had 
 
 I am thrilled to share my offer letter from CodSoft! Here's a glimpse of the formal start of my journey:
 
-![Offer Letter(offer_letter.png)]
+![Offer Letter}(Offer_letter.png)
 
 ## Overview Video
 
