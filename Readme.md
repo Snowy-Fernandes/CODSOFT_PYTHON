@@ -29,25 +29,25 @@ During my internship, I was involved in several key tasks that helped me gain pr
 
 - **Description**: Built a basic calculator application that performs arithmetic operations like addition, subtraction, multiplication, and division.
 - **Outcome**: Designed and implemented the user interface and calculation logic.
-[![Task2](Calci.png)]
+[![Task2](calci.png)]
 
 ### 3. **Password Generator**
 
 - **Description**: Created a password generator tool that produces strong, random passwords based on user-defined criteria.
 - **Outcome**: Implemented features for customizing password length and complexity.
-[![Task3](Passgen.png)]
+[![Task3](pssgen.png)]
 
 ### 4. **Rock, Paper, Scissors Game**
 
 - **Description**: Developed a game of Rock, Paper, Scissors where users can play against the computer.
 - **Outcome**: Designed the game logic and user interface, including win/lose conditions.
-[![Task4](Task1.png)]
+[![Task4](Rockpaper.png)]
 
 ### 5. **Contact Book**
 
 - **Description**: Implemented a contact book application for storing and managing contact information.
 - **Outcome**: Created features for adding, updating, and deleting contacts.
-[![Task5](Task1.png)]
+[![Task5](Contact.png)]
 
 ## Key Takeaways
 
